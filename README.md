@@ -6,4 +6,4 @@
 
 | Start Date  | End Date    |
 | ----------- | ----------- |
-| 24th October, 2021 | 1st Feb, 2022 |
+| 24th October, 2021 | 1st February, 2022 |

@@ -15,4 +15,4 @@
 
 Day | Topic
 --- | ---
-**1** |  (/Days/Day1.md)
+**1** |  [Binary Search](/Days/Dat1.md)

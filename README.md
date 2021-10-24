@@ -16,5 +16,5 @@
 Day | Topic
 --- | ---
 **1** |  [Binary Search](/Days/Day1.md)
-**1** |  [](/Days/Day2.md)
+**2** |  [-](/Days/Day2.md)
 

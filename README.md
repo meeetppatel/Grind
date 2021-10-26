@@ -17,4 +17,4 @@ Day | Topic
 --- | ---
 **1** |  [Binary Search](/Days/Day1.md)
 **2** |  [Binary Search Interview Questions - Google, Facebook, Amazon](/Days/Day2.md)
-
+**1** |  [Q5,Q6,Q7 of (Binary Search Interview Questions - Google, Facebook, Amazon)](/Days/Day3.md)

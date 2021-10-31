@@ -20,3 +20,4 @@ Day | Topic
 **3** |  [Q5,Q6,Q7 -Binary Search Interview Questions - Google, Facebook, Amazon](/Days/Day3.md)
 **4** |  [Q8,Q9,Q10,Q11 - Binary Search Questions - Google, Facebook, Amazon](/Days/Day4.md)
 **5, 6 & 7** | [Binary Search in 2D Arrays](/Days/Day5-6-7.md)
+**8** | [Solved problems(Binarysearch)](/Days/Day8.md)

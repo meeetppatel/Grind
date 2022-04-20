@@ -1,5 +1,5 @@
 
-## Grind
+#Grind
 
 - Learning DSA in Java and Web Development Fundamentals consistently for 100 days straight.
 

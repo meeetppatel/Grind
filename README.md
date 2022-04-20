@@ -4,7 +4,7 @@
 - Learning DSA in Java and Web Development Fundamentals consistently for 100 days straight.
 
 
-## #Objective Update:
+ Objective Update:
 [Web Dev with Python, Django and Javascript](https://cs50.harvard.edu/web/2020/)
 
 

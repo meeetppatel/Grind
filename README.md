@@ -1,7 +1,7 @@
 
 # Grind
 
-- Learning DSA in Java and Web Development Fundamentals consistently for 100 days straight.
+- Learning DSA in Java and Web Development Fundamentals .
 
 
  Objective Update:

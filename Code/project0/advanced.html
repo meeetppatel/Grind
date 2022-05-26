@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>advanced search</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="advanced.css">
+</head>
+
+<body>
+    <ul class="nav">
+        <li><a href="index.html">Google Search</a></li>
+        <!-- <li><a href="images.html">Google image Search</a></li> -->
+    </ul>
+    <div class="top-1">
+        <img src="https://www.google.co.in/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png" id="logo"
+        alt="Google logo" />
+        <h2 id="adv-s">Advanced Search</h2>
+        
+        <h3>Find pages with...</h3>
+    </div>
+    <form action="https://google.com/search" autocomplete="off">
+        <div class="main-container">
+            <div class="container-1">
+                <span>all these words.:</span>
+                <span>this exact word or phrase.:</span>
+                <span>any of these words.:</span>
+                <span>none of these words.:</span>
+            </div>
+            <div class="container-2">
+                <input name="as_q" type="text" class="searchbar-sm">
+                <input name="as_epq" type="text" class="searchbar-sm">
+                <input name="as_oq" type="text" class="searchbar-sm">
+                <input name="as_eq" type="text" class="searchbar-sm">
+            </div>
+        </div>
+        <div class="btns" >
+            <input id="advanced-btn" type="submit" value="Advanced Search" class="searchbtns">
+        </div>
+    </form>
+</body>
+
+</html>

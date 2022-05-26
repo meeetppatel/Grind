@@ -1,0 +1,138 @@
+body {
+    font-family: Futura, Trebuchet MS, Arial, san-serif;
+    color: #e8eaed;
+    background-color: #202124;
+}
+
+
+.nav{
+    text-align: right;
+}
+.nav li{
+    display: inline-block;
+    padding: 10px;
+
+}
+
+.nav a {
+    color: #bdc1c6;
+    text-decoration: none;
+    
+}
+.main-container{
+    padding-top: 140px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90%;
+}
+
+#images-txt{
+    position: relative;
+    font-size: 15px;
+    left: 110px;
+    top: -20px;
+    color: rgb(94, 152, 246);
+}
+
+.searchbar {
+    font-size: 15px;
+    color: #e8eaed;
+    background-color: transparent;
+    border-color: #5d5959;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 25px;
+    display: block;
+    margin: 10px;
+    padding: 14px;
+    width: 550px;
+    padding-left: 50px;
+}
+
+#mic{
+    height: 24px;
+    width: 24px;
+    vertical-align: middle;
+    position: relative;
+    bottom: 45px;
+    left: 590px;
+    cursor: pointer;
+
+}
+#s-icon{
+    height: 24px;
+    width: 24px;
+    vertical-align: middle;
+    color: #e8eaed;
+    position: relative;
+    bottom: 44px;
+    cursor: pointer;
+}
+
+.btns{
+    text-align: center;
+}
+
+.searchbtns{
+    background-color: #303134;
+    border: 1px solid #303134;
+    border-radius: 4px;
+    color: #e8eaed;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+footer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid #30313430;
+    background-color: #151515ea;
+    position:fixed;
+    bottom: 1px;
+    display: flex;
+    padding-bottom: 15px;
+    align-items: center;
+    justify-content: center;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+footer a{
+    text-decoration: none;
+    color:#bdc1c6;
+    font-size:14px;
+    font-weight: 50;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.footer-1{
+    padding: 8px;
+    border-top: 1px solid #3031348b;
+    width: 100%;
+    display: flex;
+}
+.footer-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    border-top: 1px solid #3031348b;
+    padding-top: 14px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+
+
+

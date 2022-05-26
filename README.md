@@ -30,5 +30,6 @@ Day | Topic
 # web dev 
 
 
-| [project 0](https://cs50.harvard.edu/web/2020/projects/0/) |[code](/Code/project0) |
-| [project 1](https://cs50.harvard.edu/web/2020/projects/1/) |[code](target="blank")  |    
+ [project 0](https://cs50.harvard.edu/web/2020/projects/0/) |  [code](/Code/project0) 
+
+ [project 1](https://cs50.harvard.edu/web/2020/projects/1/) |  [code](target="blank")     

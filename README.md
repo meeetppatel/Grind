@@ -32,4 +32,5 @@ Day | Topic
 project | code
 --- | ---
 [project 0](https://cs50.harvard.edu/web/2020/projects/0/) |  [code](/Code/project0) 
-[project 1](https://cs50.harvard.edu/web/2020/projects/1/) |  [code](target="blank")     
+[project 1](https://cs50.harvard.edu/web/2020/projects/1/) |  [code](/Code/wiki/) 
+[Airline Django app](https://github.com/D3Vgang/AirlineMadeEz) | [code](https://github.com/D3Vgang/AirlineMadeEz/tree/main/airline)    

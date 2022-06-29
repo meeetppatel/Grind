@@ -33,4 +33,8 @@ project | code
 --- | ---
 [project 0](https://cs50.harvard.edu/web/2020/projects/0/) |  [code](/Code/project0) 
 [project 1](https://cs50.harvard.edu/web/2020/projects/1/) |  [code](/Code/wiki/) 
-[Airline Django app](https://github.com/D3Vgang/AirlineMadeEz) | [code](https://github.com/D3Vgang/AirlineMadeEz/tree/main/airline)    
+[Airline Django app](https://github.com/D3Vgang/AirlineMadeEz) | [code](https://github.com/D3Vgang/AirlineMadeEz/tree/main/airline)
+[Rock-Paper-Scissors](https://meetmepatel.github.io/rock-paper-scissors/) | [code](https://github.com/meetmepatel/rock-paper-scissors) 
+[Etch-A-Sketch](https://meetmepatel.github.io/etch-a-sketch/) | [code](https://github.com/meetmepatel/etch-a-sketch) 
+[Calculator](https://meetmepatel.github.io/calculator/) | [code](https://github.com/meetmepatel/calculator) 
+   

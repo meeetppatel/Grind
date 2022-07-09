@@ -38,3 +38,4 @@ project | code
 [Etch-A-Sketch](https://meetmepatel.github.io/etch-a-sketch/) | [code](https://github.com/meetmepatel/etch-a-sketch) 
 [Calculator](https://meetmepatel.github.io/calculator/) | [code](https://github.com/meetmepatel/calculator) 
 [Signup-Form](https://meetmepatel.github.io/sign-up-form/) | [code](https://github.com/meetmepatel/sign-up-form)    
+[Admin-Dashboard](https://meetmepatel.github.io/admin-dashboard/) | [code](https://github.com/meetmepatel/admin-dashboard)    
